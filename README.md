@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohit2212kr/LeetCode/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
