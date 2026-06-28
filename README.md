@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rohit2212kr/LeetCode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/rohit2212kr/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit2212kr/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohit2212kr/LeetCode/tree/master/0162-find-peak-element) |
+| [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohit2212kr/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
