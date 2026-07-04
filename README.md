@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit2212kr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/rohit2212kr/LeetCode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/rohit2212kr/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rohit2212kr/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit2212kr/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohit2212kr/LeetCode/tree/master/0739-daily-temperatures) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rohit2212kr/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rohit2212kr/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
