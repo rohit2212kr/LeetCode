@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/rohit2212kr/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rohit2212kr/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/rohit2212kr/LeetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohit2212kr/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit2212kr/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/rohit2212kr/LeetCode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/rohit2212kr/LeetCode/tree/master/0895-maximum-frequency-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohit2212kr/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rohit2212kr/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
