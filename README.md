@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohit2212kr/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rohit2212kr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rohit2212kr/LeetCode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit2212kr/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit2212kr/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohit2212kr/LeetCode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/rohit2212kr/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit2212kr/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohit2212kr/LeetCode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohit2212kr/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
