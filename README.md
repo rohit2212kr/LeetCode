@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohit2212kr/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rohit2212kr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rohit2212kr/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/rohit2212kr/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rohit2212kr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rohit2212kr/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rohit2212kr/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/rohit2212kr/LeetCode/tree/master/0622-design-circular-queue) |
 ## Recursion
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohit2212kr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,4 +165,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohit2212kr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
