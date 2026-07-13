@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit2212kr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/rohit2212kr/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/rohit2212kr/LeetCode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
