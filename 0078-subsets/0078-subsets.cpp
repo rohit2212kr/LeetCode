@@ -1,23 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> res;
-    void solve(vector<int>& nums, int i, vector<int> temp){
-         
-        if(i==nums.size()){
-            res.push_back(temp);
+    vector<vector<int>> ans;
+    void btrack(int i, vector<int>& curr, vector<int>& nums) {
+        if(i == nums.size()){
+            ans.push_back(curr);
             return;
-        }
+        } 
 
-        temp.push_back(nums[i]);
-        solve(nums, i+1, temp);
-        temp.pop_back();
-        solve(nums, i+1, temp);
+        curr.push_back(nums[i]);
+        btrack(i+1, curr, nums);
+        curr.pop_back();
 
+        btrack(i+1, curr, nums);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        int i = 0;
-        vector<int> temp;
-        solve(nums, i, temp);
-        return res;
+        vector<int> curr;
+
+        btrack(0, curr, nums);
+        return ans;
     }
 };
