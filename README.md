@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/rohit2212kr/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/rohit2212kr/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/rohit2212kr/LeetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rohit2212kr/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/rohit2212kr/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/rohit2212kr/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/rohit2212kr/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/rohit2212kr/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
