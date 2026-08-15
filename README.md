@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/rohit2212kr/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/rohit2212kr/LeetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rohit2212kr/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rohit2212kr/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit2212kr/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit2212kr/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohit2212kr/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/rohit2212kr/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rohit2212kr/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0090-subsets-ii) |
 ## Tree
 |  |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rohit2212kr/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0100-same-tree) |
