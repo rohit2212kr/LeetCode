@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohit2212kr/LeetCode/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/rohit2212kr/LeetCode/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohit2212kr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rohit2212kr/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/rohit2212kr/LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
