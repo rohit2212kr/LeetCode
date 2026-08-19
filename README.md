@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit2212kr/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit2212kr/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohit2212kr/LeetCode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/rohit2212kr/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
@@ -189,10 +190,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/rohit2212kr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit2212kr/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohit2212kr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rohit2212kr/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/rohit2212kr/LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0047-permutations-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rohit2212kr/LeetCode/tree/master/0022-generate-parentheses) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
