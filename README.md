@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/rohit2212kr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/rohit2212kr/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
 | [0895-maximum-frequency-stack](https://github.com/rohit2212kr/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/rohit2212kr/LeetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/rohit2212kr/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rohit2212kr/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/rohit2212kr/LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -320,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
