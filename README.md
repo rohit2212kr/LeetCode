@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
 | [0895-maximum-frequency-stack](https://github.com/rohit2212kr/LeetCode/tree/master/0895-maximum-frequency-stack) |
+| [0997-find-the-town-judge](https://github.com/rohit2212kr/LeetCode/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohit2212kr/LeetCode/tree/master/0739-daily-temperatures) |
+| [0997-find-the-town-judge](https://github.com/rohit2212kr/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/rohit2212kr/LeetCode/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/rohit2212kr/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
