@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/rohit2212kr/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 | [0622-design-circular-queue](https://github.com/rohit2212kr/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohit2212kr/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
+| [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohit2212kr/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rohit2212kr/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 ## String Matching
 |  |
 | ------- |
