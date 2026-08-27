@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/rohit2212kr/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/rohit2212kr/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/rohit2212kr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rohit2212kr/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/rohit2212kr/LeetCode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/rohit2212kr/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohit2212kr/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/rohit2212kr/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/rohit2212kr/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/rohit2212kr/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/rohit2212kr/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
