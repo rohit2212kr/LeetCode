@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 | [0622-design-circular-queue](https://github.com/rohit2212kr/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/rohit2212kr/LeetCode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohit2212kr/LeetCode/tree/master/0739-daily-temperatures) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rohit2212kr/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rohit2212kr/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
 ## String Matching
 |  |
 | ------- |
@@ -354,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rohit2212kr/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
