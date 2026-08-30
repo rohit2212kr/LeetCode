@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/rohit2212kr/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/rohit2212kr/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohit2212kr/LeetCode/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/rohit2212kr/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/rohit2212kr/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/rohit2212kr/LeetCode/tree/master/1046-last-stone-weight) |
 ## Binary Search
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rohit2212kr/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/rohit2212kr/LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/rohit2212kr/LeetCode/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
