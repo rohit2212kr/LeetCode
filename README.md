@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rohit2212kr/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohit2212kr/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/rohit2212kr/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/rohit2212kr/LeetCode/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohit2212kr/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -361,10 +363,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/rohit2212kr/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohit2212kr/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rohit2212kr/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rohit2212kr/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rohit2212kr/LeetCode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohit2212kr/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
