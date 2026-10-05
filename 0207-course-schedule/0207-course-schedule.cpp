@@ -1,47 +1,35 @@
 class Solution {
 public:
-
-    bool dfs(vector<vector<int>>& adj, vector<bool>& vis, vector<bool>& path, int i) {
-
-        vis[i] = true;
-        path[i] = true;
-
-        for(int neighbour : adj[i]) {
-
-            if(path[neighbour])
-                return true;
-
-            if(!vis[neighbour]) {
-                if(dfs(adj, vis, path, neighbour))
-                    return true;
-            }
-        }
-
-        path[i] = false;
-        return false;
-    }
-
-    bool canFinish(int n, vector<vector<int>>& prerequisites) {
-
+    bool canFinish(int n, vector<vector<int>>& pre) {
+        vector<int> ind(n, 0);
         vector<vector<int>> adj(n);
-
-        for(auto edge : prerequisites) {
-            int course = edge[0];
-            int prerequisite = edge[1];
-
-            adj[prerequisite].push_back(course);
+        queue<int> q;
+        for(auto p : pre){
+            adj[p[1]].push_back(p[0]);
+            ind[p[0]]++;
         }
 
-        vector<bool> vis(n, false);
-        vector<bool> path(n, false);
+        for(int i =0;i<n; i++){
+            if(ind[i] == 0) q.push(i);
+        }
 
-        for(int i = 0; i < n; i++) {
-            if(!vis[i]) {
-                if(dfs(adj, vis, path, i))
-                    return false;
+        int count = 0;
+
+        while(!q.empty()){
+            int top = q.front();
+            q.pop();
+            count++;
+
+            for(auto next : adj[top]){
+                ind[next]--;
+
+                if(ind[next] == 0) q.push(next);
             }
+
         }
 
-        return true;
+        if(count == n) return true;
+        else return false;
+
     }
 };
