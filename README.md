@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/rohit2212kr/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rohit2212kr/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohit2212kr/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/rohit2212kr/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rohit2212kr/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rohit2212kr/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rohit2212kr/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/rohit2212kr/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rohit2212kr/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rohit2212kr/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0090-subsets-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/rohit2212kr/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/rohit2212kr/LeetCode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/rohit2212kr/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/rohit2212kr/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohit2212kr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0767-reorganize-string](https://github.com/rohit2212kr/LeetCode/tree/master/0767-reorganize-string) |
@@ -412,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rohit2212kr/LeetCode/tree/master/0207-course-schedule) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohit2212kr/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohit2212kr/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
